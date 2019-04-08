@@ -4,7 +4,7 @@
 ### Runing locally with Docker
 
 ```bash
-# build the docker image
+# build the docker image with Linux container enabled in Docker settings
 docker build -t navrachana
 
 # run the docker container on this machine. Expose its internal
